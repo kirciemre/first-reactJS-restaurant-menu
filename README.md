@@ -1,3 +1,7 @@
+# This is my First React App
+
+This is a simple e-commerce application with cart. you can buy anything you want in Voyage Restaurant but first you need to run 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
